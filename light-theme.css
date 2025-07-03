@@ -1,0 +1,25 @@
+ body {
+  background: #121212;
+  color: #fff;
+}
+.navbar {
+  background: linear-gradient(90deg, #111, #333);
+}
+.navbar .nav-link, .navbar-brand {
+  color: #fff !important;
+}
+/* Add dark overrides */
+body {
+  background-color: #ffffff;
+  color: #000000;
+}
+.navbar {
+  background-color: #f8f9fa;
+}
+body {
+  background-color: #121212;
+  color: #ffffff;
+}
+.navbar {
+  background-color: #333333;
+}
